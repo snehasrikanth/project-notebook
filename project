@@ -1,0 +1,9 @@
+Sneha Srikanth's Coursera Capstone notebook
+This repository will contain my Coursera IBM Data Science Certification capstone items.
+
+In [1]:
+import pandas as pd
+import numpy as np
+In [2]:
+print('Hello Capstone Project Course!')
+Hello Capstone Project Course!
